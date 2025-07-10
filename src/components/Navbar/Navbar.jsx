@@ -129,15 +129,15 @@ const Navbar = () => {
             ))}
             <div className="flex space-x-4">
               <a
-                href="https://github.com/codingmastr"
+                href="https://github.com/ritikamogha"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
               >
                 <FaGithub size={24} />
               </a>
-              <a
-                href="https://www.linkedin.com/in/tarun-kaushik-553b441a4"
+              <a href="https://www.linkedin.com/in/ritika-mogha-3b39021b7"
+"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
